@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lostthingfinder/static/css/main.e29aee24.chunk.css",
+    "main.js": "/lostthingfinder/static/js/main.d0ac8e17.chunk.js",
+    "main.js.map": "/lostthingfinder/static/js/main.d0ac8e17.chunk.js.map",
+    "runtime-main.js": "/lostthingfinder/static/js/runtime-main.855f89e1.js",
+    "runtime-main.js.map": "/lostthingfinder/static/js/runtime-main.855f89e1.js.map",
+    "static/js/2.c674ffa1.chunk.js": "/lostthingfinder/static/js/2.c674ffa1.chunk.js",
+    "static/js/2.c674ffa1.chunk.js.map": "/lostthingfinder/static/js/2.c674ffa1.chunk.js.map",
+    "index.html": "/lostthingfinder/index.html",
+    "static/css/main.e29aee24.chunk.css.map": "/lostthingfinder/static/css/main.e29aee24.chunk.css.map",
+    "static/js/2.c674ffa1.chunk.js.LICENSE.txt": "/lostthingfinder/static/js/2.c674ffa1.chunk.js.LICENSE.txt",
+    "static/media/logo.c7ead8a4.png": "/lostthingfinder/static/media/logo.c7ead8a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.855f89e1.js",
+    "static/js/2.c674ffa1.chunk.js",
+    "static/css/main.e29aee24.chunk.css",
+    "static/js/main.d0ac8e17.chunk.js"
+  ]
+}
