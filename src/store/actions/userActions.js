@@ -59,8 +59,12 @@ export const fetchItems = (id, cords) => async (dispatch, getState) => {
     dispatch({ type: "FETCH_ITEMS_START" });
     // dispatch({ type: "AsynchronousStart" });
     const res = id
-      ? await axios.get(`/item/get-items/4/${id}`)
-      : await axios.get("/item/get-items/4");
+      ? await axios.get(
+          `https://serene-escarpment-41559.herokuapp.com/item/get-items/4/${id}`
+        )
+      : await axios.get(
+          "https://serene-escarpment-41559.herokuapp.com/item/get-items/4"
+        );
     dispatch({ type: "FETCH_ITEM_SUCCESS", payload: res.data });
     // dispatch({ type: "AsynchronousSuccess" });
     return res.data;
