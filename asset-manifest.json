@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lostthingfinder/static/css/main.e29aee24.chunk.css",
-    "main.js": "/lostthingfinder/static/js/main.c5084480.chunk.js",
-    "main.js.map": "/lostthingfinder/static/js/main.c5084480.chunk.js.map",
-    "runtime-main.js": "/lostthingfinder/static/js/runtime-main.855f89e1.js",
-    "runtime-main.js.map": "/lostthingfinder/static/js/runtime-main.855f89e1.js.map",
-    "static/js/2.c674ffa1.chunk.js": "/lostthingfinder/static/js/2.c674ffa1.chunk.js",
-    "static/js/2.c674ffa1.chunk.js.map": "/lostthingfinder/static/js/2.c674ffa1.chunk.js.map",
-    "index.html": "/lostthingfinder/index.html",
-    "static/css/main.e29aee24.chunk.css.map": "/lostthingfinder/static/css/main.e29aee24.chunk.css.map",
-    "static/js/2.c674ffa1.chunk.js.LICENSE.txt": "/lostthingfinder/static/js/2.c674ffa1.chunk.js.LICENSE.txt",
-    "static/media/logo.c7ead8a4.png": "/lostthingfinder/static/media/logo.c7ead8a4.png"
+    "main.css": "/static/css/main.e29aee24.chunk.css",
+    "main.js": "/static/js/main.bcd1f226.chunk.js",
+    "main.js.map": "/static/js/main.bcd1f226.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/js/2.2ec8e679.chunk.js": "/static/js/2.2ec8e679.chunk.js",
+    "static/js/2.2ec8e679.chunk.js.map": "/static/js/2.2ec8e679.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e29aee24.chunk.css.map": "/static/css/main.e29aee24.chunk.css.map",
+    "static/js/2.2ec8e679.chunk.js.LICENSE.txt": "/static/js/2.2ec8e679.chunk.js.LICENSE.txt",
+    "static/media/logo.c7ead8a4.png": "/static/media/logo.c7ead8a4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.855f89e1.js",
-    "static/js/2.c674ffa1.chunk.js",
+    "static/js/runtime-main.900dd88b.js",
+    "static/js/2.2ec8e679.chunk.js",
     "static/css/main.e29aee24.chunk.css",
-    "static/js/main.c5084480.chunk.js"
+    "static/js/main.bcd1f226.chunk.js"
   ]
 }
